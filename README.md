@@ -13,3 +13,9 @@ Evaluación T2 - LPII - IZQUIERDO CHANCAFE AXXEL
 ## Control de cambios
 
 Modificación del pom.xml
+
+## Gestión de ramas
+
+Rama utilizada: feature-izquierdo
+
+Cambio realizado: se creó la clase ControlVersion_Izquierdo.java, que muestra en consola un mensaje de identificación del estudiante.
